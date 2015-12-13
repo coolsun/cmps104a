@@ -1,0 +1,4 @@
+  0  0.000  293  TOK_ROOT        (<<ROOT>>)  0x1a0a720
+  0  0.000  304  return_         ()  0x1a0a6d0
+  0  0.000  309  variable        ()  0x1a0a600
+  3  5.007  279  TOK_IDENT       (foo)  

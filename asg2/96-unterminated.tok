@@ -1,0 +1,22 @@
+# 1 "96-unterminated.oc"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "96-unterminated.oc"
+string 0xe7a380->{TOK_STRING(262) 3:4.000 "string" []}
+t 0xe7a400->{TOK_IDENT(279) 3:4.007 "t" []}
+= 0xe7ebb0->{'='(61) 3:4.009 "=" []}
+; 0xe7ec00->{';'(59) 3:4.016 ";" []}
+string 0xe7ec50->{TOK_STRING(262) 3:5.000 "string" []}
+s 0xe7eca0->{TOK_IDENT(279) 3:5.007 "s" []}
+= 0xe7ed20->{'='(61) 3:5.009 "=" []}
+char 0xe7ed70->{TOK_CHAR(260) 3:6.000 "char" []}
+c 0xe7edc0->{TOK_IDENT(279) 3:6.005 "c" []}
+= 0xe7ee10->{'='(61) 3:6.007 "=" []}
+a 0xe7ee60->{TOK_IDENT(279) 3:6.010 "a" []}
+; 0xe7eeb0->{';'(59) 3:6.011 ";" []}
+s 0xe7ef30->{TOK_IDENT(279) 3:7.000 "s" []}
+= 0xe7ef80->{'='(61) 3:7.002 "=" []}
+s 0xe7efd0->{TOK_IDENT(279) 3:8.000 "s" []}
+= 0xe7f020->{'='(61) 3:8.002 "=" []}
+int 0xe7f070->{TOK_INT(261) 3:10.000 "int" []}
+; 0xe7f0c0->{';'(59) 3:10.012 ";" []}

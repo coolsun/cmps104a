@@ -1,0 +1,17 @@
+
+#include "oclib.oh"
+
+struct foo {
+   int a;
+}
+
+int a = 6;
+foo b = new foo ();
+b.a = 8;
+a = a * b.a + 6;;
+
+puti (a);
+putc (' ');
+puti (b.a);
+endl ();
+

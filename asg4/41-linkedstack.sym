@@ -1,0 +1,33 @@
+__assert_fail (5.23.5) {1} void(string,string,int)
+   expr (5.23.27) {2} string
+   file (5.23.40) {2} string
+   line (5.23.50) {2} int
+argi (6.45.4) {1} int
+argv (6.43.9) {1} string[]
+empty (6.14.5) {1} bool(stack)
+   stack (6.14.18) {13} stack
+endl (5.28.5) {1} void()
+exit (5.33.5) {1} void(int)
+   status (5.33.15) {12} int
+getargv (5.32.9) {1} string()
+getc (5.29.4) {1} int()
+getln (5.31.7) {1} string()
+getw (5.30.7) {1} string()
+new_stack (6.19.6) {1} stack()
+   stack (6.20.9) {16} stack
+pop (6.33.7) {1} string(stack)
+   stack (6.33.18) {20} stack
+   tmp (6.36.10) {20} string
+push (6.25.5) {1} void(stack,string)
+   stack (6.25.17) {17} stack
+   str (6.25.31) {17} string
+   tmp (6.27.8) {17} node
+putb (5.24.5) {1} void(bool)
+   b (5.24.16) {3} bool
+putc (5.25.5) {1} void(char)
+   c (5.25.16) {4} char
+puti (5.26.5) {1} void(int)
+   i (5.26.15) {5} int
+puts (5.27.5) {1} void(string)
+   s (5.27.18) {6} string
+stack (6.44.6) {1} stack

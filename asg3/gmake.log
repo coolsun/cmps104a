@@ -1,0 +1,12 @@
+bison --defines=yyparse.h --output=yyparse.cpp parser.y
+g++ -g -O0 -Wall -Wextra -std=gnu++11 -c astree.cpp
+g++ -g -O0 -Wall -Wextra -std=gnu++11 -c auxlib.cpp
+g++ -g -O0 -Wall -Wextra -std=gnu++11 -c lyutils.cpp
+g++ -g -O0 -Wall -Wextra -std=gnu++11 -c main.cpp
+g++ -g -O0 -Wall -Wextra -std=gnu++11 -c stringset.cpp
+g++ -g -O0 -Wall -Wextra -std=gnu++11 -c yylex.cpp
+g++ -g -O0 -Wall -Wextra -std=gnu++11 -c yyparse.cpp
+parser.y:226:14: warning: ‘void* yycalloc(size_t)’ defined but not used [-Wunused-function]
+ static void* yycalloc (size_t size) {
+              ^
+g++ -g -O0 -Wall -Wextra -std=gnu++11 -ooc astree.o auxlib.o lyutils.o main.o stringset.o yylex.o yyparse.o

@@ -1,0 +1,9 @@
+  0  0.000  293  TOK_ROOT        (<<ROOT>>)  0x71c020
+  0  0.000  305  call            ()  0x71bf30 0x71c0e0 0x71c210 0x71be20
+  0  0.000  297  constant        ()  0x71bec0
+  3  4.028  280  TOK_INTCON      (0)  
+  0  0.000  297  constant        ()  0x71c090
+  3  4.030  280  TOK_INTCON      (0)  
+  0  0.000  297  constant        ()  0x71c1c0
+  3  4.032  280  TOK_INTCON      (0)  
+  3  4.026  279  TOK_IDENT       (Q)  

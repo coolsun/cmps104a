@@ -1,0 +1,386 @@
+  0  0.000  293  TOK_ROOT        (<<ROOT>>)  0x139de20 0x139ed20 0x139f2f0 0x139f880 0x139fe00 0x13a0260 0x13a05a0 0x13a08e0 0x13a0c20 0x13a1060 0x13a14c0 0x13a2340 0x13a44e0 0x13a4920 0x13a6e90 0x13a9a20 0x13a9e20 0x13aa290 0x13ab3f0 0x13abec0
+  0  0.000  301  function        ()  0x139dd90 0x139e0e0 0x1398ac0 0x139db00 0x139dab0 0x1398c80
+  0  0.000  299  decl            ()  0x139dd20 0x139dcb0
+  0  0.000  295  type            ()  0x139dc40
+  0  0.000  296  basetype        ()  0x139dbc0
+  5  23.020  262  TOK_STRING      (string)  
+  5  23.027  279  TOK_IDENT       (expr)  
+  0  0.000  299  decl            ()  0x139e070 0x139e000
+  0  0.000  295  type            ()  0x139df90
+  0  0.000  296  basetype        ()  0x139df10
+  5  23.033  262  TOK_STRING      (string)  
+  5  23.040  279  TOK_IDENT       (file)  
+  0  0.000  299  decl            ()  0x1398a50 0x139e290
+  0  0.000  295  type            ()  0x139e240
+  0  0.000  296  basetype        ()  0x139e1f0
+  5  23.046  261  TOK_INT         (int)  
+  5  23.050  279  TOK_IDENT       (line)  
+  0  0.000  295  type            ()  0x139da60
+  0  0.000  296  basetype        ()  0x139d9e0
+  5  23.000  258  TOK_VOID        (void)  
+  5  23.005  279  TOK_IDENT       (__assert_fail)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x139ec90 0x139ea30 0x139e9e0 0x139ee40
+  0  0.000  299  decl            ()  0x139ec20 0x139ebb0
+  0  0.000  295  type            ()  0x139eb40
+  0  0.000  296  basetype        ()  0x139eaf0
+  5  24.011  259  TOK_BOOL        (bool)  
+  5  24.016  279  TOK_IDENT       (b)  
+  0  0.000  295  type            ()  0x139e990
+  0  0.000  296  basetype        ()  0x139e940
+  5  24.000  258  TOK_VOID        (void)  
+  5  24.005  279  TOK_IDENT       (putb)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x139f260 0x139efd0 0x139ef80 0x139f410
+  0  0.000  299  decl            ()  0x139f1f0 0x139f150
+  0  0.000  295  type            ()  0x139f0e0
+  0  0.000  296  basetype        ()  0x139f070
+  5  25.011  260  TOK_CHAR        (char)  
+  5  25.016  279  TOK_IDENT       (c)  
+  0  0.000  295  type            ()  0x139ef30
+  0  0.000  296  basetype        ()  0x139eeb0
+  5  25.000  258  TOK_VOID        (void)  
+  5  25.005  279  TOK_IDENT       (putc)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x139f7f0 0x139f5d0 0x139f580 0x139f9a0
+  0  0.000  299  decl            ()  0x139f780 0x139f710
+  0  0.000  295  type            ()  0x139f6c0
+  0  0.000  296  basetype        ()  0x139f670
+  5  26.011  261  TOK_INT         (int)  
+  5  26.015  279  TOK_IDENT       (i)  
+  0  0.000  295  type            ()  0x139f530
+  0  0.000  296  basetype        ()  0x139f4b0
+  5  26.000  258  TOK_VOID        (void)  
+  5  26.005  279  TOK_IDENT       (puti)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x139fd70 0x139fb30 0x139fae0 0x139ff20
+  0  0.000  299  decl            ()  0x139fd00 0x139fc90
+  0  0.000  295  type            ()  0x139fc20
+  0  0.000  296  basetype        ()  0x139fbd0
+  5  27.011  262  TOK_STRING      (string)  
+  5  27.018  279  TOK_IDENT       (s)  
+  0  0.000  295  type            ()  0x139fa90
+  0  0.000  296  basetype        ()  0x139fa10
+  5  27.000  258  TOK_VOID        (void)  
+  5  27.005  279  TOK_IDENT       (puts)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x13a00d0 0x13a0080 0x13a0210
+  0  0.000  295  type            ()  0x13a0030
+  0  0.000  296  basetype        ()  0x139ffe0
+  5  28.000  258  TOK_VOID        (void)  
+  5  28.005  279  TOK_IDENT       (endl)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x13a0410 0x13a03c0 0x13a0550
+  0  0.000  295  type            ()  0x13a0370
+  0  0.000  296  basetype        ()  0x13a02f0
+  5  29.000  261  TOK_INT         (int)  
+  5  29.004  279  TOK_IDENT       (getc)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x13a0750 0x13a0700 0x13a0890
+  0  0.000  295  type            ()  0x13a06b0
+  0  0.000  296  basetype        ()  0x13a0630
+  5  30.000  262  TOK_STRING      (string)  
+  5  30.007  279  TOK_IDENT       (getw)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x13a0a90 0x13a0a40 0x13a0bd0
+  0  0.000  295  type            ()  0x13a09f0
+  0  0.000  296  basetype        ()  0x13a0970
+  5  31.000  262  TOK_STRING      (string)  
+  5  31.007  279  TOK_IDENT       (getln)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x13a0e10 0x13a0ea0 0x13a1010
+  0  0.000  295  type            ()  0x13a0d70 0x13a0dc0
+  0  0.000  296  basetype        ()  0x139ff90
+  5  32.000  262  TOK_STRING      (string)  
+  5  32.006  272  TOK_ARRAY       ([])  
+  5  32.009  279  TOK_IDENT       (getargv)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x13a1430 0x13a11f0 0x13a11a0 0x13a15e0
+  0  0.000  299  decl            ()  0x13a13c0 0x13a1350
+  0  0.000  295  type            ()  0x13a12e0
+  0  0.000  296  basetype        ()  0x13a1290
+  5  33.011  261  TOK_INT         (int)  
+  5  33.015  279  TOK_IDENT       (status)  
+  0  0.000  295  type            ()  0x13a1150
+  0  0.000  296  basetype        ()  0x13a10d0
+  5  33.000  258  TOK_VOID        (void)  
+  5  33.005  279  TOK_IDENT       (exit)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x13a22b0 0x13a2070 0x13a2020 0x13a2430
+  0  0.000  299  decl            ()  0x13a2240 0x13a21f0
+  0  0.000  295  type            ()  0x13a2180
+  0  0.000  296  basetype        ()  0x13a2130
+  6  14.012  279  TOK_IDENT       (stack)  
+  6  14.018  279  TOK_IDENT       (stack)  
+  0  0.000  295  type            ()  0x13a1fb0
+  0  0.000  296  basetype        ()  0x13a1f60
+  6  14.000  259  TOK_BOOL        (bool)  
+  6  14.005  279  TOK_IDENT       (empty)  
+  0  0.000  302  block           ()  0x13a24d0 0x13a31c0 0x13a3670
+  0  0.000  302  block           ()  0x13a30e0
+  0  0.000  310  if_             ()  0x13a2a80 0x13a2cd0
+  0  0.000  306  unop            ()  0x13a2610
+  6  15.008  33   '!'             (!)  0x13a2970
+  0  0.000  307  binop           ()  0x13a27a0 0x13a2750 0x13a2880
+  0  0.000  309  variable        ()  0x13a2700
+  6  15.010  279  TOK_IDENT       (stack)  
+  6  15.016  274  TOK_NE          (!=)  
+  0  0.000  297  constant        ()  0x13a2810
+  6  15.019  270  TOK_NULL        (null)  
+  0  0.000  305  call            ()  0x13a2be0 0x13a2df0 0x13a2f20 0x13a2ad0
+  0  0.000  297  constant        ()  0x13a2b70
+  6  15.041  282  TOK_STRINGCON   ("stack != null")  
+  0  0.000  297  constant        ()  0x13a2d40
+  6  15.058  282  TOK_STRINGCON   ("41-linkedstack.oc")  
+  0  0.000  297  constant        ()  0x13a2ed0
+  6  15.079  280  TOK_INTCON      (15)  
+  6  15.026  279  TOK_IDENT       (__assert_fail)  
+  0  0.000  302  block           ()  
+  0  0.000  304  return_         ()  0x13a35e0
+  0  0.000  307  binop           ()  0x13a3410 0x13a34a0 0x13a3540
+  0  0.000  309  variable        ()  0x13a3320 0x13a3390
+  0  0.000  309  variable        ()  0x13a3280
+  6  16.010  279  TOK_IDENT       (stack)  
+  6  16.016  279  TOK_IDENT       (top)  
+  6  16.020  273  TOK_EQ          (==)  
+  0  0.000  297  constant        ()  0x13a34f0
+  6  16.023  270  TOK_NULL        (null)  
+  0  0.000  301  function        ()  0x13a3890 0x13a37f0 0x13a39d0
+  0  0.000  295  type            ()  0x13a3840
+  0  0.000  296  basetype        ()  0x13a3770
+  6  19.000  279  TOK_IDENT       (stack)  
+  6  19.006  279  TOK_IDENT       (new_stack)  
+  0  0.000  302  block           ()  0x13a3e60 0x13a4210 0x13a4410
+  0  0.000  294  vardecl         ()  0x13a3b10 0x13a3a70 0x13a3d80
+  0  0.000  295  type            ()  0x13a3ac0
+  0  0.000  296  basetype        ()  0x13a3a20
+  6  20.003  279  TOK_IDENT       (stack)  
+  6  20.009  279  TOK_IDENT       (stack)  
+  0  0.000  308  allocator_      ()  0x13a3bd0 0x13a3c70
+  6  20.017  271  TOK_NEW         (new)  
+  0  0.000  296  basetype        ()  0x13a3c20
+  6  20.021  279  TOK_IDENT       (stack)  
+  0  0.000  307  binop           ()  0x13a4040 0x13a40d0 0x13a4170
+  0  0.000  309  variable        ()  0x13a3fa0 0x13a3ff0
+  0  0.000  309  variable        ()  0x13a3ed0
+  6  21.003  279  TOK_IDENT       (stack)  
+  6  21.009  279  TOK_IDENT       (top)  
+  6  21.013  61   '='             (=)  
+  0  0.000  297  constant        ()  0x13a4120
+  6  21.015  270  TOK_NULL        (null)  
+  0  0.000  304  return_         ()  0x13a43c0
+  0  0.000  309  variable        ()  0x13a4320
+  6  22.010  279  TOK_IDENT       (stack)  
+  0  0.000  301  function        ()  0x13a4890 0x13a4b60 0x13a4670 0x13a4620 0x13a4cc0
+  0  0.000  299  decl            ()  0x13a4820 0x13a47d0
+  0  0.000  295  type            ()  0x13a4760
+  0  0.000  296  basetype        ()  0x13a4710
+  6  25.011  279  TOK_IDENT       (stack)  
+  6  25.017  279  TOK_IDENT       (stack)  
+  0  0.000  299  decl            ()  0x13a4af0 0x13a4a80
+  0  0.000  295  type            ()  0x13a4a10
+  0  0.000  296  basetype        ()  0x13a49c0
+  6  25.024  262  TOK_STRING      (string)  
+  6  25.031  279  TOK_IDENT       (str)  
+  0  0.000  295  type            ()  0x13a45d0
+  0  0.000  296  basetype        ()  0x13a4550
+  6  25.000  258  TOK_VOID        (void)  
+  6  25.005  279  TOK_IDENT       (push)  
+  0  0.000  302  block           ()  0x13a4d60 0x13a58d0 0x13a5d80 0x13a6120 0x13a6600 0x13a69b0
+  0  0.000  302  block           ()  0x13a57f0
+  0  0.000  310  if_             ()  0x13a5200 0x13a5400
+  0  0.000  306  unop            ()  0x13a4e50
+  6  26.008  33   '!'             (!)  0x13a50f0
+  0  0.000  307  binop           ()  0x13a4f90 0x13a4f40 0x13a5030
+  0  0.000  309  variable        ()  0x13a4ef0
+  6  26.010  279  TOK_IDENT       (stack)  
+  6  26.016  274  TOK_NE          (!=)  
+  0  0.000  297  constant        ()  0x13a4fe0
+  6  26.019  270  TOK_NULL        (null)  
+  0  0.000  305  call            ()  0x13a5340 0x13a5500 0x13a5630 0x13a5250
+  0  0.000  297  constant        ()  0x13a52f0
+  6  26.041  282  TOK_STRINGCON   ("stack != null")  
+  0  0.000  297  constant        ()  0x13a5470
+  6  26.058  282  TOK_STRINGCON   ("41-linkedstack.oc")  
+  0  0.000  297  constant        ()  0x13a55e0
+  6  26.079  280  TOK_INTCON      (26)  
+  6  26.026  279  TOK_IDENT       (__assert_fail)  
+  0  0.000  302  block           ()  
+  0  0.000  294  vardecl         ()  0x13a5a30 0x13a5990 0x13a5ca0
+  0  0.000  295  type            ()  0x13a59e0
+  0  0.000  296  basetype        ()  0x13a5940
+  6  27.003  279  TOK_IDENT       (node)  
+  6  27.008  279  TOK_IDENT       (tmp)  
+  0  0.000  308  allocator_      ()  0x13a5af0 0x13a5b90
+  6  27.014  271  TOK_NEW         (new)  
+  0  0.000  296  basetype        ()  0x13a5b40
+  6  27.018  279  TOK_IDENT       (node)  
+  0  0.000  307  binop           ()  0x13a5f90 0x13a5fe0 0x13a60d0
+  0  0.000  309  variable        ()  0x13a5ef0 0x13a5f40
+  0  0.000  309  variable        ()  0x13a5e20
+  6  28.003  279  TOK_IDENT       (tmp)  
+  6  28.007  279  TOK_IDENT       (data)  
+  6  28.012  61   '='             (=)  
+  0  0.000  309  variable        ()  0x13a6030
+  6  28.014  279  TOK_IDENT       (str)  
+  0  0.000  307  binop           ()  0x13a6320 0x13a6390 0x13a6520
+  0  0.000  309  variable        ()  0x13a6280 0x13a62d0
+  0  0.000  309  variable        ()  0x13a61b0
+  6  29.003  279  TOK_IDENT       (tmp)  
+  6  29.007  279  TOK_IDENT       (link)  
+  6  29.012  61   '='             (=)  
+  0  0.000  309  variable        ()  0x13a6480 0x13a64d0
+  0  0.000  309  variable        ()  0x13a63e0
+  6  29.014  279  TOK_IDENT       (stack)  
+  6  29.020  279  TOK_IDENT       (top)  
+  0  0.000  307  binop           ()  0x13a6800 0x13a6870 0x13a6960
+  0  0.000  309  variable        ()  0x13a6760 0x13a67b0
+  0  0.000  309  variable        ()  0x13a66c0
+  6  30.003  279  TOK_IDENT       (stack)  
+  6  30.009  279  TOK_IDENT       (top)  
+  6  30.013  61   '='             (=)  
+  0  0.000  309  variable        ()  0x13a68c0
+  6  30.015  279  TOK_IDENT       (tmp)  
+  0  0.000  301  function        ()  0x13a6e00 0x13a6c00 0x13a6bb0 0x13a6f80
+  0  0.000  299  decl            ()  0x13a6d90 0x13a6d40
+  0  0.000  295  type            ()  0x13a6cf0
+  0  0.000  296  basetype        ()  0x13a6ca0
+  6  33.012  279  TOK_IDENT       (stack)  
+  6  33.018  279  TOK_IDENT       (stack)  
+  0  0.000  295  type            ()  0x13a6b60
+  0  0.000  296  basetype        ()  0x13a6b10
+  6  33.000  262  TOK_STRING      (string)  
+  6  33.007  279  TOK_IDENT       (pop)  
+  0  0.000  302  block           ()  0x13a7020 0x13a7b70 0x13a7c30 0x13a8880 0x13a8dd0 0x13a93c0 0x13a95a0
+  0  0.000  302  block           ()  0x13a7a90
+  0  0.000  310  if_             ()  0x13a74e0 0x13a76e0
+  0  0.000  306  unop            ()  0x13a7110
+  6  34.008  33   '!'             (!)  0x13a73d0
+  0  0.000  307  binop           ()  0x13a7250 0x13a7200 0x13a7310
+  0  0.000  309  variable        ()  0x13a71b0
+  6  34.010  279  TOK_IDENT       (stack)  
+  6  34.016  274  TOK_NE          (!=)  
+  0  0.000  297  constant        ()  0x13a72c0
+  6  34.019  270  TOK_NULL        (null)  
+  0  0.000  305  call            ()  0x13a7620 0x13a77a0 0x13a78d0 0x13a7530
+  0  0.000  297  constant        ()  0x13a75d0
+  6  34.041  282  TOK_STRINGCON   ("stack != null")  
+  0  0.000  297  constant        ()  0x13a7750
+  6  34.058  282  TOK_STRINGCON   ("41-linkedstack.oc")  
+  0  0.000  297  constant        ()  0x13a7880
+  6  34.079  280  TOK_INTCON      (34)  
+  6  34.026  279  TOK_IDENT       (__assert_fail)  
+  0  0.000  302  block           ()  
+  0  0.000  302  block           ()  0x13a8790
+  0  0.000  310  if_             ()  0x13a8160 0x13a83a0
+  0  0.000  306  unop            ()  0x13a7d20
+  6  35.008  33   '!'             (!)  0x13a8080
+  0  0.000  306  unop            ()  0x13a7dc0
+  6  35.010  33   '!'             (!)  0x13a7fa0
+  0  0.000  305  call            ()  0x13a7f50 0x13a7e10
+  0  0.000  309  variable        ()  0x13a7eb0
+  6  35.019  279  TOK_IDENT       (stack)  
+  6  35.012  279  TOK_IDENT       (empty)  
+  0  0.000  305  call            ()  0x13a82e0 0x13a84a0 0x13a85d0 0x13a81d0
+  0  0.000  297  constant        ()  0x13a8270
+  6  35.043  282  TOK_STRINGCON   ("! empty (stack)")  
+  0  0.000  297  constant        ()  0x13a8410
+  6  35.062  282  TOK_STRINGCON   ("41-linkedstack.oc")  
+  0  0.000  297  constant        ()  0x13a8580
+  6  35.083  280  TOK_INTCON      (35)  
+  6  35.028  279  TOK_IDENT       (__assert_fail)  
+  0  0.000  302  block           ()  
+  0  0.000  294  vardecl         ()  0x13a89c0 0x13a8970 0x13a8d10
+  0  0.000  295  type            ()  0x13a8920
+  0  0.000  296  basetype        ()  0x13a88d0
+  6  36.003  262  TOK_STRING      (string)  
+  6  36.010  279  TOK_IDENT       (tmp)  
+  0  0.000  309  variable        ()  0x13a8be0 0x13a8cc0
+  0  0.000  309  variable        ()  0x13a8b20 0x13a8b90
+  0  0.000  309  variable        ()  0x13a8a80
+  6  36.016  279  TOK_IDENT       (stack)  
+  6  36.022  279  TOK_IDENT       (top)  
+  6  36.026  279  TOK_IDENT       (data)  
+  0  0.000  307  binop           ()  0x13a8fd0 0x13a9040 0x13a9300
+  0  0.000  309  variable        ()  0x13a8f30 0x13a8f80
+  0  0.000  309  variable        ()  0x13a8e90
+  6  37.003  279  TOK_IDENT       (stack)  
+  6  37.009  279  TOK_IDENT       (top)  
+  6  37.013  61   '='             (=)  
+  0  0.000  309  variable        ()  0x13a91d0 0x13a92b0
+  0  0.000  309  variable        ()  0x13a9130 0x13a9180
+  0  0.000  309  variable        ()  0x13a9090
+  6  37.015  279  TOK_IDENT       (stack)  
+  6  37.021  279  TOK_IDENT       (top)  
+  6  37.025  279  TOK_IDENT       (link)  
+  0  0.000  304  return_         ()  0x13a9550
+  0  0.000  309  variable        ()  0x13a94b0
+  6  38.010  279  TOK_IDENT       (tmp)  
+  0  0.000  294  vardecl         ()  0x13a9780 0x13a97f0 0x13a9980
+  0  0.000  295  type            ()  0x13a96e0 0x13a9730
+  0  0.000  296  basetype        ()  0x13a9660
+  6  43.000  262  TOK_STRING      (string)  
+  6  43.006  272  TOK_ARRAY       ([])  
+  6  43.009  279  TOK_IDENT       (argv)  
+  0  0.000  305  call            ()  0x13a9890
+  6  43.016  279  TOK_IDENT       (getargv)  
+  0  0.000  294  vardecl         ()  0x13a9bd0 0x13a9b30 0x13a9d60
+  0  0.000  295  type            ()  0x13a9b80
+  0  0.000  296  basetype        ()  0x13a9ab0
+  6  44.000  279  TOK_IDENT       (stack)  
+  6  44.006  279  TOK_IDENT       (stack)  
+  0  0.000  305  call            ()  0x13a9c70
+  6  44.014  279  TOK_IDENT       (new_stack)  
+  0  0.000  294  vardecl         ()  0x13aa090 0x13aa010 0x13aa1a0
+  0  0.000  295  type            ()  0x13a9fc0
+  0  0.000  296  basetype        ()  0x13a0cb0
+  6  45.000  261  TOK_INT         (int)  
+  6  45.004  279  TOK_IDENT       (argi)  
+  0  0.000  297  constant        ()  0x13aa130
+  6  45.011  280  TOK_INTCON      (0)  
+  0  0.000  303  while_          ()  0x13aa840 0x13aa950
+  0  0.000  307  binop           ()  0x13aa640 0x13aa6d0 0x13aa7a0
+  0  0.000  309  variable        ()  0x13aa490 0x13aa5d0
+  0  0.000  309  variable        ()  0x13aa3f0
+  6  47.007  279  TOK_IDENT       (argv)  
+  0  0.000  309  variable        ()  0x13aa4e0
+  6  47.012  279  TOK_IDENT       (argi)  
+  6  47.018  274  TOK_NE          (!=)  
+  0  0.000  297  constant        ()  0x13aa750
+  6  47.021  270  TOK_NULL        (null)  
+  0  0.000  302  block           ()  0x13aab30 0x13ab2f0
+  0  0.000  305  call            ()  0x13aaae0 0x13aada0 0x13aa9a0
+  0  0.000  309  variable        ()  0x13aaa40
+  6  48.009  279  TOK_IDENT       (stack)  
+  0  0.000  309  variable        ()  0x13aac20 0x13aad30
+  0  0.000  309  variable        ()  0x13aab80
+  6  48.016  279  TOK_IDENT       (argv)  
+  0  0.000  309  variable        ()  0x13aac90
+  6  48.021  279  TOK_IDENT       (argi)  
+  6  48.003  279  TOK_IDENT       (push)  
+  0  0.000  307  binop           ()  0x13aafa0 0x13aaf50 0x13ab260
+  0  0.000  309  variable        ()  0x13aaf00
+  6  49.003  279  TOK_IDENT       (argi)  
+  6  49.008  61   '='             (=)  
+  0  0.000  307  binop           ()  0x13ab090 0x13ab040 0x13ab170
+  0  0.000  309  variable        ()  0x13aaff0
+  6  49.010  279  TOK_IDENT       (argi)  
+  6  49.015  43   '+'             (+)  
+  0  0.000  297  constant        ()  0x13ab100
+  6  49.017  280  TOK_INTCON      (1)  
+  0  0.000  303  while_          ()  0x13ab7a0 0x13ab860
+  0  0.000  306  unop            ()  0x13ab4e0
+  6  52.007  33   '!'             (!)  0x13ab6c0
+  0  0.000  305  call            ()  0x13ab670 0x13ab530
+  0  0.000  309  variable        ()  0x13ab5d0
+  6  52.016  279  TOK_IDENT       (stack)  
+  6  52.009  279  TOK_IDENT       (empty)  
+  0  0.000  302  block           ()  0x13abbe0 0x13abd90
+  0  0.000  305  call            ()  0x13abb00 0x13ab8b0
+  0  0.000  305  call            ()  0x13aba90 0x13ab950
+  0  0.000  309  variable        ()  0x13ab9f0
+  6  53.014  279  TOK_IDENT       (stack)  
+  6  53.009  279  TOK_IDENT       (pop)  
+  6  53.003  279  TOK_IDENT       (puts)  
+  0  0.000  305  call            ()  0x13abca0
+  6  54.003  279  TOK_IDENT       (endl)  

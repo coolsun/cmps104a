@@ -1,0 +1,28 @@
+__assert_fail (5.23.5) {1} void(string,string,int)
+   expr (5.23.27) {2} string
+   file (5.23.40) {2} string
+   line (5.23.50) {2} int
+dot_product (6.5.4) {1} int(int,int,int)
+   dot (6.7.7) {13} int
+   index (6.6.7) {13} int
+   size (6.5.21) {13} int
+   vec1 (6.5.33) {13} int
+   vec2 (6.5.45) {13} int
+endl (5.28.5) {1} void()
+exit (5.33.5) {1} void(int)
+   status (5.33.15) {12} int
+getargv (5.32.9) {1} string()
+getc (5.29.4) {1} int()
+getln (5.31.7) {1} string()
+getw (5.30.7) {1} string()
+i (6.18.4) {1} int[]
+putb (5.24.5) {1} void(bool)
+   b (5.24.16) {3} bool
+putc (5.25.5) {1} void(char)
+   c (5.25.16) {4} char
+puti (5.26.5) {1} void(int)
+   i (5.26.15) {5} int
+puts (5.27.5) {1} void(string)
+   s (5.27.18) {6} string
+vec1 (6.16.6) {1} int[]
+vec2 (6.17.6) {1} int[]

@@ -1,0 +1,11 @@
+#include "oclib.oh"
+
+string[] argv = getargv ();
+int argi = 1;
+while (argv[argi] != null) {
+   if (argi > 1) putc (' ');
+   puts (argv[argi]);
+   argi = argi + 1;
+}
+endl ();
+

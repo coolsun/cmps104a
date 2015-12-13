@@ -1,0 +1,165 @@
+  0  0.000  293  TOK_ROOT        (<<ROOT>>)  0x24dd060 0x24ddc60 0x24de200 0x24de790 0x24ded10 0x24df170 0x24df4b0 0x24df7f0 0x24dfb30 0x24dff70 0x24e03d0 0x24e0bc0 0x24e10a0 0x24e14d0 0x24e1bb0 0x24e1cb0 0x24e1e90 0x24e21d0 0x24e2550 0x24e2700
+  0  0.000  301  function        ()  0x24dcfd0 0x24dd320 0x24dd5b0 0x24dcd40 0x24d7500 0x24dd770
+  0  0.000  299  decl            ()  0x24dcf60 0x24dcef0
+  0  0.000  295  type            ()  0x24dce80
+  0  0.000  296  basetype        ()  0x24dce00
+  5  23.020  262  TOK_STRING      (string)  
+  5  23.027  279  TOK_IDENT       (expr)  
+  0  0.000  299  decl            ()  0x24dd2b0 0x24dd240
+  0  0.000  295  type            ()  0x24dd1d0
+  0  0.000  296  basetype        ()  0x24dd150
+  5  23.033  262  TOK_STRING      (string)  
+  5  23.040  279  TOK_IDENT       (file)  
+  0  0.000  299  decl            ()  0x24dd540 0x24dd4d0
+  0  0.000  295  type            ()  0x24dd480
+  0  0.000  296  basetype        ()  0x24dd430
+  5  23.046  261  TOK_INT         (int)  
+  5  23.050  279  TOK_IDENT       (line)  
+  0  0.000  295  type            ()  0x24d74b0
+  0  0.000  296  basetype        ()  0x24d7430
+  5  23.000  258  TOK_VOID        (void)  
+  5  23.005  279  TOK_IDENT       (__assert_fail)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x24ddbd0 0x24dd940 0x24dd8f0 0x24ddd50
+  0  0.000  299  decl            ()  0x24ddb60 0x24ddae0
+  0  0.000  295  type            ()  0x24dda70
+  0  0.000  296  basetype        ()  0x24dda00
+  5  24.011  259  TOK_BOOL        (bool)  
+  5  24.016  279  TOK_IDENT       (b)  
+  0  0.000  295  type            ()  0x24dd880
+  0  0.000  296  basetype        ()  0x24dd830
+  5  24.000  258  TOK_VOID        (void)  
+  5  24.005  279  TOK_IDENT       (putb)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x24de170 0x24ddee0 0x24dde90 0x24de320
+  0  0.000  299  decl            ()  0x24de100 0x24de060
+  0  0.000  295  type            ()  0x24ddff0
+  0  0.000  296  basetype        ()  0x24ddf80
+  5  25.011  260  TOK_CHAR        (char)  
+  5  25.016  279  TOK_IDENT       (c)  
+  0  0.000  295  type            ()  0x24dde40
+  0  0.000  296  basetype        ()  0x24dddc0
+  5  25.000  258  TOK_VOID        (void)  
+  5  25.005  279  TOK_IDENT       (putc)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x24de700 0x24de4e0 0x24de490 0x24de8b0
+  0  0.000  299  decl            ()  0x24de690 0x24de620
+  0  0.000  295  type            ()  0x24de5d0
+  0  0.000  296  basetype        ()  0x24de580
+  5  26.011  261  TOK_INT         (int)  
+  5  26.015  279  TOK_IDENT       (i)  
+  0  0.000  295  type            ()  0x24de440
+  0  0.000  296  basetype        ()  0x24de3c0
+  5  26.000  258  TOK_VOID        (void)  
+  5  26.005  279  TOK_IDENT       (puti)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x24dec80 0x24dea40 0x24de9f0 0x24dee30
+  0  0.000  299  decl            ()  0x24dec10 0x24deba0
+  0  0.000  295  type            ()  0x24deb30
+  0  0.000  296  basetype        ()  0x24deae0
+  5  27.011  262  TOK_STRING      (string)  
+  5  27.018  279  TOK_IDENT       (s)  
+  0  0.000  295  type            ()  0x24de9a0
+  0  0.000  296  basetype        ()  0x24de920
+  5  27.000  258  TOK_VOID        (void)  
+  5  27.005  279  TOK_IDENT       (puts)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x24defe0 0x24def90 0x24df120
+  0  0.000  295  type            ()  0x24def40
+  0  0.000  296  basetype        ()  0x24deef0
+  5  28.000  258  TOK_VOID        (void)  
+  5  28.005  279  TOK_IDENT       (endl)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x24df320 0x24df2d0 0x24df460
+  0  0.000  295  type            ()  0x24df280
+  0  0.000  296  basetype        ()  0x24df200
+  5  29.000  261  TOK_INT         (int)  
+  5  29.004  279  TOK_IDENT       (getc)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x24df660 0x24df610 0x24df7a0
+  0  0.000  295  type            ()  0x24df5c0
+  0  0.000  296  basetype        ()  0x24df540
+  5  30.000  262  TOK_STRING      (string)  
+  5  30.007  279  TOK_IDENT       (getw)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x24df9a0 0x24df950 0x24dfae0
+  0  0.000  295  type            ()  0x24df900
+  0  0.000  296  basetype        ()  0x24df880
+  5  31.000  262  TOK_STRING      (string)  
+  5  31.007  279  TOK_IDENT       (getln)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x24dfd20 0x24dfdb0 0x24dff20
+  0  0.000  295  type            ()  0x24dfc80 0x24dfcd0
+  0  0.000  296  basetype        ()  0x24deea0
+  5  32.000  262  TOK_STRING      (string)  
+  5  32.006  272  TOK_ARRAY       ([])  
+  5  32.009  279  TOK_IDENT       (getargv)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x24e0340 0x24e0100 0x24e00b0 0x24e04f0
+  0  0.000  299  decl            ()  0x24e02d0 0x24e0260
+  0  0.000  295  type            ()  0x24e01f0
+  0  0.000  296  basetype        ()  0x24e01a0
+  5  33.011  261  TOK_INT         (int)  
+  5  33.015  279  TOK_IDENT       (status)  
+  0  0.000  295  type            ()  0x24e0060
+  0  0.000  296  basetype        ()  0x24dffe0
+  5  33.000  258  TOK_VOID        (void)  
+  5  33.005  279  TOK_IDENT       (exit)  
+  0  0.000  302  block           ()  
+  0  0.000  294  vardecl         ()  0x24e09a0 0x24e0950 0x24e0ad0
+  0  0.000  295  type            ()  0x24e08e0
+  0  0.000  296  basetype        ()  0x24e0890
+  6  9.000  261  TOK_INT         (int)  
+  6  9.004  279  TOK_IDENT       (a)  
+  0  0.000  297  constant        ()  0x24e0a60
+  6  9.008  280  TOK_INTCON      (6)  
+  0  0.000  294  vardecl         ()  0x24e0d70 0x24e0cd0 0x24e0fc0
+  0  0.000  295  type            ()  0x24e0d20
+  0  0.000  296  basetype        ()  0x24e0c50
+  6  10.000  279  TOK_IDENT       (foo)  
+  6  10.004  279  TOK_IDENT       (b)  
+  0  0.000  308  allocator_      ()  0x24e0e10 0x24e0eb0
+  6  10.008  271  TOK_NEW         (new)  
+  0  0.000  296  basetype        ()  0x24e0e60
+  6  10.012  279  TOK_IDENT       (foo)  
+  0  0.000  307  binop           ()  0x24e12b0 0x24e1340 0x24e13e0
+  0  0.000  309  variable        ()  0x24e11e0 0x24e1230
+  0  0.000  309  variable        ()  0x24e1110
+  6  11.000  279  TOK_IDENT       (b)  
+  6  11.002  279  TOK_IDENT       (a)  
+  6  11.004  61   '='             (=)  
+  0  0.000  297  constant        ()  0x24e1390
+  6  11.006  280  TOK_INTCON      (8)  
+  0  0.000  307  binop           ()  0x24e1630 0x24e15e0 0x24e1b40
+  0  0.000  309  variable        ()  0x24e1560
+  6  12.000  279  TOK_IDENT       (a)  
+  6  12.002  61   '='             (=)  
+  0  0.000  307  binop           ()  0x24e19b0 0x24e1960 0x24e1aa0
+  0  0.000  307  binop           ()  0x24e1720 0x24e16d0 0x24e18d0
+  0  0.000  309  variable        ()  0x24e1680
+  6  12.004  279  TOK_IDENT       (a)  
+  6  12.006  42   '*'             (*)  
+  0  0.000  309  variable        ()  0x24e1810 0x24e1880
+  0  0.000  309  variable        ()  0x24e1770
+  6  12.008  279  TOK_IDENT       (b)  
+  6  12.010  279  TOK_IDENT       (a)  
+  6  12.012  43   '+'             (+)  
+  0  0.000  297  constant        ()  0x24e1a20
+  6  12.014  280  TOK_INTCON      (6)  
+  0  0.000  302  block           ()  
+  0  0.000  305  call            ()  0x24e1e40 0x24e1d00
+  0  0.000  309  variable        ()  0x24e1da0
+  6  14.006  279  TOK_IDENT       (a)  
+  6  14.000  279  TOK_IDENT       (puti)  
+  0  0.000  305  call            ()  0x24e2100 0x24dfbc0
+  0  0.000  297  constant        ()  0x24e20b0
+  6  15.006  281  TOK_CHARCON     (' ')  
+  6  15.000  279  TOK_IDENT       (putc)  
+  0  0.000  305  call            ()  0x24e2470 0x24e2290
+  0  0.000  309  variable        ()  0x24e23d0 0x24e2420
+  0  0.000  309  variable        ()  0x24e2330
+  6  16.006  279  TOK_IDENT       (b)  
+  6  16.008  279  TOK_IDENT       (a)  
+  6  16.000  279  TOK_IDENT       (puti)  
+  0  0.000  305  call            ()  0x24e2610
+  6  17.000  279  TOK_IDENT       (endl)  

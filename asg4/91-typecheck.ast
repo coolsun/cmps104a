@@ -1,0 +1,218 @@
+  0  0.000  293  TOK_ROOT        (<<ROOT>>)  0x1cf7400 0x1cf7c00 0x1cf7fa0 0x1cf8410 0x1cf8990 0x1cf9a90 0x1cf9c10 0x1cf9e40 0x1cfa580 0x1cfabe0 0x1cfb1f0 0x1cfb7f0 0x1cfc040 0x1cfc3f0 0x1cfcad0 0x1cfcc10 0x1cfd4b0 0x1cfdb80 0x1cfe580
+  0  0.000  294  vardecl         ()  0x1cf7140 0x1cf71d0 0x1cf72f0
+  0  0.000  295  type            ()  0x1cf1550 0x1cf70f0
+  0  0.000  296  basetype        ()  0x1cf14d0
+  3  7.000  261  TOK_INT         (int)  
+  3  7.003  272  TOK_ARRAY       ([])  
+  3  7.006  279  TOK_IDENT       (a)  
+  0  0.000  297  constant        ()  0x1cf72a0
+  3  7.010  270  TOK_NULL        (null)  
+  0  0.000  294  vardecl         ()  0x1cf7630 0x1cf76c0 0x1cf7ac0
+  0  0.000  295  type            ()  0x1cf75c0 0x1cf7540
+  0  0.000  296  basetype        ()  0x1cf74c0
+  3  8.000  279  TOK_IDENT       (reference)  
+  3  8.009  272  TOK_ARRAY       ([])  
+  3  8.012  279  TOK_IDENT       (a)  
+  0  0.000  308  allocator_      ()  0x1cf7760 0x1cf7800 0x1cf79b0
+  3  8.016  271  TOK_NEW         (new)  
+  0  0.000  296  basetype        ()  0x1cf77b0
+  3  8.020  262  TOK_STRING      (string)  
+  0  0.000  297  constant        ()  0x1cf7910
+  3  8.027  280  TOK_INTCON      (10)  
+  0  0.000  301  function        ()  0x1cf7d70 0x1cf7d20 0x1cf7f50
+  0  0.000  295  type            ()  0x1cf7cd0
+  0  0.000  296  basetype        ()  0x1cf7c50
+  3  9.000  258  TOK_VOID        (void)  
+  3  9.005  279  TOK_IDENT       (foo)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x1cf8380 0x1cf8180 0x1cf8130 0x1cf8500
+  0  0.000  299  decl            ()  0x1cf8310 0x1cf82c0
+  0  0.000  295  type            ()  0x1cf8270
+  0  0.000  296  basetype        ()  0x1cf8220
+  3  10.010  261  TOK_INT         (int)  
+  3  10.014  279  TOK_IDENT       (a)  
+  0  0.000  295  type            ()  0x1cf80e0
+  0  0.000  296  basetype        ()  0x1cf8060
+  3  10.000  258  TOK_VOID        (void)  
+  3  10.005  279  TOK_IDENT       (foo)  
+  0  0.000  302  block           ()  
+  0  0.000  301  function        ()  0x1cf8920 0x1cf8c70 0x1cf8690 0x1cf8640 0x1cf8d80
+  0  0.000  299  decl            ()  0x1cf8840 0x1cf88d0
+  0  0.000  295  type            ()  0x1cf8780 0x1cf87f0
+  0  0.000  296  basetype        ()  0x1cf8730
+  3  11.010  261  TOK_INT         (int)  
+  3  11.013  272  TOK_ARRAY       ([])  
+  3  11.016  279  TOK_IDENT       (a)  
+  0  0.000  299  decl            ()  0x1cf8b90 0x1cf8c20
+  0  0.000  295  type            ()  0x1cf8ad0 0x1cf8b40
+  0  0.000  296  basetype        ()  0x1cf8a50
+  3  11.019  261  TOK_INT         (int)  
+  3  11.022  272  TOK_ARRAY       ([])  
+  3  11.025  279  TOK_IDENT       (b)  
+  0  0.000  295  type            ()  0x1cf85f0
+  0  0.000  296  basetype        ()  0x1cf8570
+  3  11.000  258  TOK_VOID        (void)  
+  3  11.005  279  TOK_IDENT       (foo)  
+  0  0.000  302  block           ()  0x1cf9230
+  0  0.000  294  vardecl         ()  0x1cf8ec0 0x1cf8e70 0x1cf91a0
+  0  0.000  295  type            ()  0x1cf8e20
+  0  0.000  296  basetype        ()  0x1cf8dd0
+  3  11.029  261  TOK_INT         (int)  
+  3  11.033  279  TOK_IDENT       (x)  
+  0  0.000  307  binop           ()  0x1cf9020 0x1cf8fd0 0x1cf9130
+  0  0.000  309  variable        ()  0x1cf8f80
+  3  11.037  279  TOK_IDENT       (a)  
+  3  11.039  43   '+'             (+)  
+  0  0.000  309  variable        ()  0x1cf9090
+  3  11.041  279  TOK_IDENT       (b)  
+  0  0.000  307  binop           ()  0x1cf9910 0x1cf98c0 0x1cf9a20
+  0  0.000  309  variable        ()  0x1cf9870
+  3  14.000  279  TOK_IDENT       (a)  
+  3  14.002  43   '+'             (+)  
+  0  0.000  309  variable        ()  0x1cf9980
+  3  14.004  279  TOK_IDENT       (b)  
+  0  0.000  305  call            ()  0x1cf9b20
+  3  15.000  279  TOK_IDENT       (f)  
+  0  0.000  305  call            ()  0x1cf9df0 0x1cfa0d0 0x1cfa260 0x1cf9cb0
+  0  0.000  309  variable        ()  0x1cf9d50
+  3  16.003  279  TOK_IDENT       (x)  
+  0  0.000  307  binop           ()  0x1cf9f50 0x1cf9f00 0x1cfa010
+  0  0.000  309  variable        ()  0x1cf9eb0
+  3  16.006  279  TOK_IDENT       (y)  
+  3  16.007  43   '+'             (+)  
+  0  0.000  297  constant        ()  0x1cf9fc0
+  3  16.008  280  TOK_INTCON      (3)  
+  0  0.000  309  variable        ()  0x1cfa160
+  3  16.011  279  TOK_IDENT       (z)  
+  3  16.000  279  TOK_IDENT       (f)  
+  0  0.000  307  binop           ()  0x1cfa3d0 0x1cfa380 0x1cfa510
+  0  0.000  309  variable        ()  0x1cfa330
+  3  17.000  279  TOK_IDENT       (foo)  
+  3  17.004  43   '+'             (+)  
+  0  0.000  309  variable        ()  0x1cfa420
+  3  17.006  279  TOK_IDENT       (bar)  
+  0  0.000  307  binop           ()  0x1cfa720 0x1cfa6d0 0x1cfab60
+  0  0.000  309  variable        ()  0x1cf9380
+  3  18.000  279  TOK_IDENT       (a)  
+  3  18.002  61   '='             (=)  
+  0  0.000  307  binop           ()  0x1cfa810 0x1cfa7c0 0x1cfaad0
+  0  0.000  309  variable        ()  0x1cfa770
+  3  18.004  279  TOK_IDENT       (b)  
+  3  18.006  61   '='             (=)  
+  0  0.000  307  binop           ()  0x1cfa900 0x1cfa8b0 0x1cfaa60
+  0  0.000  309  variable        ()  0x1cfa860
+  3  18.008  279  TOK_IDENT       (c)  
+  3  18.010  61   '='             (=)  
+  0  0.000  309  variable        ()  0x1cfa970
+  3  18.012  279  TOK_IDENT       (d)  
+  0  0.000  307  binop           ()  0x1cfad30 0x1cface0 0x1cfb160
+  0  0.000  309  variable        ()  0x1cfac60
+  3  19.000  279  TOK_IDENT       (test)  
+  3  19.005  61   '='             (=)  
+  0  0.000  307  binop           ()  0x1cfaf80 0x1cfaec0 0x1cfb110
+  0  0.000  307  binop           ()  0x1cfae20 0x1cfadd0 0x1cfaf10
+  0  0.000  309  variable        ()  0x1cfad80
+  3  19.007  279  TOK_IDENT       (abc)  
+  3  19.011  43   '+'             (+)  
+  0  0.000  309  variable        ()  0x1cfae70
+  3  19.013  279  TOK_IDENT       (def)  
+  3  19.017  43   '+'             (+)  
+  0  0.000  309  variable        ()  0x1cfb010
+  3  19.019  279  TOK_IDENT       (ghi)  
+  0  0.000  307  binop           ()  0x1cfb620 0x1cfb4d0 0x1cfb720
+  0  0.000  307  binop           ()  0x1cfb340 0x1cfb2f0 0x1cfb590
+  0  0.000  309  variable        ()  0x1cfb270
+  3  20.000  279  TOK_IDENT       (this)  
+  3  20.005  43   '+'             (+)  
+  0  0.000  307  binop           ()  0x1cfb3e0 0x1cfb430 0x1cfb520
+  0  0.000  297  constant        ()  0x1cfb390
+  3  20.007  280  TOK_INTCON      (23)  
+  3  20.010  42   '*'             (*)  
+  0  0.000  309  variable        ()  0x1cfb480
+  3  20.012  279  TOK_IDENT       (a)  
+  3  20.014  43   '+'             (+)  
+  0  0.000  297  constant        ()  0x1cfb6a0
+  3  20.016  282  TOK_STRINGCON   ("hello")  
+  0  0.000  303  while_          ()  0x1cfbb30 0x1cfbfc0
+  0  0.000  307  binop           ()  0x1cfb9f0 0x1cfb9a0 0x1cfbae0
+  0  0.000  309  variable        ()  0x1cfb950
+  3  21.007  279  TOK_IDENT       (a)  
+  3  21.009  275  TOK_LT          (<)  
+  0  0.000  309  variable        ()  0x1cfba40
+  3  21.011  279  TOK_IDENT       (b)  
+  0  0.000  307  binop           ()  0x1cfbc90 0x1cfbc40 0x1cfbf30
+  0  0.000  309  variable        ()  0x1cfbbc0
+  3  21.014  279  TOK_IDENT       (f)  
+  3  21.016  61   '='             (=)  
+  0  0.000  307  binop           ()  0x1cfbd80 0x1cfbd30 0x1cfbe40
+  0  0.000  309  variable        ()  0x1cfbce0
+  3  21.018  279  TOK_IDENT       (f)  
+  3  21.020  43   '+'             (+)  
+  0  0.000  297  constant        ()  0x1cfbdd0
+  3  21.022  280  TOK_INTCON      (1)  
+  0  0.000  304  return_         ()  0x1cfc360
+  0  0.000  307  binop           ()  0x1cfc160 0x1cfc1b0 0x1cfc270
+  0  0.000  297  constant        ()  0x1cfc110
+  3  22.007  280  TOK_INTCON      (3)  
+  3  22.009  43   '+'             (+)  
+  0  0.000  297  constant        ()  0x1cfc200
+  3  22.011  280  TOK_INTCON      (4)  
+  0  0.000  307  binop           ()  0x1cfc6c0 0x1cfc750 0x1cfc9f0
+  0  0.000  309  variable        ()  0x1cfc510 0x1cfc650
+  0  0.000  309  variable        ()  0x1cfc440
+  3  23.000  279  TOK_IDENT       (a)  
+  0  0.000  309  variable        ()  0x1cfc560
+  3  23.002  279  TOK_IDENT       (i)  
+  3  23.005  61   '='             (=)  
+  0  0.000  309  variable        ()  0x1cfc840 0x1cfc980
+  0  0.000  309  variable        ()  0x1cfc7a0
+  3  23.007  279  TOK_IDENT       (b)  
+  0  0.000  309  variable        ()  0x1cfc890
+  3  23.009  279  TOK_IDENT       (j)  
+  0  0.000  304  return_         ()  
+  0  0.000  303  while_          ()  0x1cfcd50 0x1cfce70
+  0  0.000  297  constant        ()  0x1cfcd00
+  3  25.007  269  TOK_TRUE        (true)  
+  0  0.000  302  block           ()  0x1cfd0e0 0x1cfd3a0
+  0  0.000  307  binop           ()  0x1cfcf60 0x1cfcf10 0x1cfd020
+  0  0.000  309  variable        ()  0x1cfcec0
+  3  25.014  279  TOK_IDENT       (a)  
+  3  25.016  61   '='             (=)  
+  0  0.000  297  constant        ()  0x1cfcfd0
+  3  25.018  280  TOK_INTCON      (3)  
+  0  0.000  307  binop           ()  0x1cfd240 0x1cfd1f0 0x1cfd2e0
+  0  0.000  309  variable        ()  0x1cfd170
+  3  25.021  279  TOK_IDENT       (b)  
+  3  25.023  61   '='             (=)  
+  0  0.000  297  constant        ()  0x1cfd290
+  3  25.025  280  TOK_INTCON      (4)  
+  0  0.000  310  if_             ()  0x1cfd840 0x1cfda70
+  0  0.000  307  binop           ()  0x1cfd700 0x1cfd6b0 0x1cfd7f0
+  0  0.000  309  variable        ()  0x1cfd660
+  3  26.004  279  TOK_IDENT       (a)  
+  3  26.006  273  TOK_EQ          (==)  
+  0  0.000  309  variable        ()  0x1cfd750
+  3  26.009  279  TOK_IDENT       (b)  
+  0  0.000  305  call            ()  0x1cfda20 0x1cfd8b0
+  0  0.000  309  variable        ()  0x1cfd980
+  3  26.015  279  TOK_IDENT       (x)  
+  3  26.012  279  TOK_IDENT       (f)  
+  0  0.000  310  if_             ()  0x1cfde40 0x1cfe0e0 0x1cfe380
+  0  0.000  307  binop           ()  0x1cfdce0 0x1cfdc90 0x1cfddd0
+  0  0.000  309  variable        ()  0x1cfdc40
+  3  27.004  279  TOK_IDENT       (a)  
+  3  27.006  274  TOK_NE          (!=)  
+  0  0.000  309  variable        ()  0x1cfdd30
+  3  27.009  279  TOK_IDENT       (b)  
+  0  0.000  307  binop           ()  0x1cfdfa0 0x1cfdf50 0x1cfe040
+  0  0.000  309  variable        ()  0x1cfded0
+  3  27.012  279  TOK_IDENT       (y)  
+  3  27.014  61   '='             (=)  
+  0  0.000  297  constant        ()  0x1cfdff0
+  3  27.016  280  TOK_INTCON      (3)  
+  0  0.000  305  call            ()  0x1cfe330 0x1cfe470 0x1cfe1f0
+  0  0.000  309  variable        ()  0x1cfe290
+  3  27.027  279  TOK_IDENT       (y)  
+  0  0.000  309  variable        ()  0x1cfe3d0
+  3  27.030  279  TOK_IDENT       (z)  
+  3  27.024  279  TOK_IDENT       (f)  

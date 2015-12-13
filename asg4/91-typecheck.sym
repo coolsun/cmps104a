@@ -1,0 +1,5 @@
+a (3.8.12) {1} reference[]
+foo (3.11.5) {1} void(int,int)
+   a (3.11.16) {4} int
+   b (3.11.25) {4} int
+   x (3.11.33) {4} int

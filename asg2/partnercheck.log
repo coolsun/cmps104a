@@ -1,0 +1,6 @@
+partnercheck: ./PARTNER: format OK:
+user    = schadha2
+uid     = 37393
+gecos   = Sejal Chadha
+home    = /afs/cats.ucsc.edu/users/a/schadha2
+shell   = /bin/csh
